@@ -32,6 +32,7 @@ p.text-muted {
     padding-bottom: 30px;
     margin-bottom: 20px;
     margin-top: 50px;
+    max-width: 960px;
     /* width: 800px; */
 
 }
@@ -57,7 +58,7 @@ p.text-muted {
 }
 
 .aboutmepara {
-    padding-left: 20px;
+    padding-left: 40px;
 }
 
 .images-gallery {
